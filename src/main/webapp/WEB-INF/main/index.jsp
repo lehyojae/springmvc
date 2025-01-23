@@ -11,6 +11,7 @@
 	<hr/>
 	<h2><a href="/springmvc/getdata">젠킨스로 아이템 생성 - shell실행</a></h2>
 	<h2><a href="/springmvc/gugu">젠킨스로 빌드와 배폴르 자동화</a></h2>
+	<h2><a href="/springmvc/gugu">젠킨스로 githud변경시 자동 빌드</a></h2>
 
 </body>
 </html>
